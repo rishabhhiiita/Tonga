@@ -1,0 +1,44 @@
+
+This is the problem statement for project:- 
+The project is to develop an app for booking vehicles like OLA, Uber. You have to use Python as the  main language to write code. Show the complete workflow diagram of your proposed methodology for vehicle booking along with a live example. You can use any machine learning algorithm which makes your task easier (like k-Means clustering algorithm).
+
+Setup:-
+	1. Unzip Tonga.zip and install below
+	2. Install below packages
+		pip3 install jupyterlab
+		pip3 install seaborn
+		pip3 install scikit-learn
+		pip3 install pyproj
+	3. Install tableplus (optional) 
+
+Steps to run the code:- 
+	1. Open Terminal/Window and cd <unzipped location>/Tonga
+	2. Run "jupyter lab" from command line 
+	3. Open Tonga.ipynb file in jupyter notebook by double click and run all the code
+		User:		user@tonga.com , password: welcome
+	4. Manager.ipynb 
+		Manager: 	admin@tonga.com , password: admin
+	5. Driver.ipynb 
+		Driver: 	driver@tonga.com, password: welcome
+	6. FarePrediction.ipynb
+		Main program for Fare Prediction
+
+
+Further enhancements:-
+	1. Convert address to latitude and longitude
+	2. Season (spring, summer, fall, winter)
+	3. Holiday and workingday split
+	4. Traffic conditions
+	5. Combine with open data sources like weather data
+
+	https://github.com/saish15/Machine-Learning/blob/master/Cab_Booking.ipynb
+	
+For Writeup & Talking points:-
+	1. https://www.geeksforgeeks.org/system-design-of-uber-app-uber-system-architecture/
+	2. https://wezom.com/blog/taxi-application-development-guide
+	3. Libraries used: (a)seaborn: statistical data visualization, a Python data visualization library based on matplotlib , (b)geopy:  Python client for several popular geocoding web services, (c)scikit-learn: machine learning in Python — Simple and efficient tools for predictive data analysis, (d)pyproj: Python interface to PROJ cartographic projections and coordinate transformations library
+
+
+
+
+	
